@@ -1,0 +1,62 @@
+.header {
+  margin: 40px;
+  border:5px solid red;
+  padding:55px;
+  text-align: center;
+}
+
+.header h1 {
+  display: inline;
+  background-color: black;
+  color: white;
+}
+
+.main {
+  margin: 150px;
+  border: 1px solid blue;
+  padding: 30px;
+}
+
+div {
+  border: 1px solid blue;
+}
+
+ul {
+    margin: 0px;
+    background-color: #FFDAB9;
+    list-style-type: none;
+}
+
+ul li {
+  float: left;
+  background-color: #FFDAB9;
+}
+
+ul li a {
+  display: block;
+  margin: 0px;
+  padding: 8px;
+}
+
+
+/* ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  background-color: #FFDAB9;
+}
+
+ul li {
+  background-color: #FFDAB9;
+  float: left;
+}
+
+ul li a {
+  display: block;
+  padding: 8px;
+}
+
+ul li a:hover {
+  background-color: red;
+}
+*/

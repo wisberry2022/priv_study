@@ -1,0 +1,27 @@
+Account 기술, 정보
+Aggregate 합계, 총액
+Arithmetic 산수, 연산, 산술, 계산
+Assumed (사실로 또는 존재하는 것으로) 추정되는
+As well 역시
+Align 나란히 만들다 
+
+Compute 계산하다
+Cumulative 누적되는
+
+Equivalent 동등한
+
+Iterable 반복할 수 있는
+Infer 추론하다
+ 
+Mutable 쉽게 변하는
+
+Permute 변경하다
+Primarily 주로
+
+Respectively 제각기, 따로, 각각
+
+Statistics 통계자료 
+
+Tabular 표로 나타낸
+
+Parentheses 삽입어구

@@ -1,0 +1,94 @@
+.title {
+  padding: 30px 20px;
+  border: 1px solid green;
+}
+
+h1 {
+  color: blue;
+  border: 1px solid blue;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav {
+  margin: 10px 0px 0px 0px;
+  border: 1px solid blue;
+  padding: 0px;
+}
+
+.nav ul {
+  margin: 0px;
+  padding: 10px 0px 10px 0px;
+  list-style-type: none;
+  background-color: #FFDAB9;
+}
+
+.nav ul li {
+  display: inline;
+}
+
+.nav ul li a {
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.nav ul li a:hover {
+  background-color: white;
+}
+
+.main {
+  margin: 10px 0px 0px 0px;
+  border: 1px solid black;
+  padding: 10px;
+  height: 550px;
+}
+
+.section_1 {
+  margin: 30px 10px 10px 30px;
+  border: 1px solid blue;
+  width: 47%;
+  height: 205px;
+  float: left;
+}
+
+.section_2 {
+  margin: 30px 10px 10px 30px;
+  border: 1px solid blue;
+  width: 47%;
+  height: 205px;
+  float: left;
+}
+
+.section_3 {
+  margin: 60px 10px 10px 30px;
+  border: 1px solid blue;
+  width: 47%;
+  height: 205px;
+  float: left;
+}
+
+.section_4 {
+  margin: 60px 10px 10px 30px;
+  border: 1px solid blue;
+  width: 47%;
+  height: 205px;
+  float: left;
+}
+
+.foot {
+  margin: 10px 0px 0px 0px;
+  border: 1px solid black;
+  height: 30px;
+}
+
+main div ul {
+  margin: 10px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+main div ul li {
+  margin: 34px 0px;
+  border: 1px solid blue;
+  background-color: lightgrey;
+}
